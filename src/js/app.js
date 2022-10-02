@@ -17,7 +17,7 @@ if (url_background.length > 0) {
   addCustomCSS(`
   #theme-header {
     
-    background-image: url(${url_background});
+    background-image: url(${https://images4.alphacoders.com/943/943483.jpg});
   }
   `);
 }
